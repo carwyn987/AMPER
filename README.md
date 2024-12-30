@@ -7,7 +7,7 @@ AMPER: Autonomous Manipulator for Plugging and EV Recharging
 
 ### Prototype 2
 
-https://github.com/user-attachments/assets/500f8b4e-8c3d-442b-a7a7-2f0b9df20870
+https://github.com/user-attachments/assets/05a4038b-d87c-4727-8270-69648a3dd77d
 
 ### Prototype 1
 
